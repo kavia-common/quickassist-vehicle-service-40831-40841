@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/quickassist-vehicle-service-40831-40841/mechanic_finder_database/myapp.db
+# File path: /home/kavia/workspace/code-generation/quickassist-vehicle-service-40831-40841/mechanic_finder_database/myapp.db
